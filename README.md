@@ -3,7 +3,7 @@
 -  ⚡ Motivated Full-stack .Net Developer
 -  📫 studied Computer Science at JUST University, Jordan
 -  🌱 I’m currently learning Full-stack development & AI
--  🔭 I’m currently working on an Academic website builder 
+-  🔭 I’m currently working on an Academic website builder project
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
